@@ -1,2 +1,4 @@
 # zavrsni-projekt-python
-Zavrsni projekat - skijaliste
+Zavrsni projekat - skijaliste 
+
+za trenera ogija 
