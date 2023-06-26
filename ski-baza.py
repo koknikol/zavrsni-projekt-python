@@ -1,5 +1,5 @@
 import sqlite3
 
-conn = sqlite3.connect('skiing_database.db')
+conn = sqlite3.connect('ski_baza.db')
 
 cursor = conn.cursor()

@@ -1,7 +1,7 @@
 import sqlite3
 
 # Povezivanje sa bazom podataka (kreiranje nove baze ako ne postoji)
-conn = sqlite3.connect('skiing_database.db')
+conn = sqlite3.connect('ski_baza.db')
 
 # Kreiranje objekta kursora za interakciju sa bazom
 cursor = conn.cursor()
